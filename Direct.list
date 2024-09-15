@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,plex.tv
 DOMAIN,v4.plex.tv
-DOMAIN-SUFFIX,piggo.me
-DOMAIN-SUFFIX,test.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
