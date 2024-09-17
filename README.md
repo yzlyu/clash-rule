@@ -1,2 +1,1 @@
-clash-rule 自用
-test2
+clash-rule
