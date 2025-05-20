@@ -44,3 +44,10 @@
 # 国内DNS
 +.dns.alidns.com
 +.doh.pub
+
+# 群晖
++.checkip.synology.com
++.checkipv6.synology.com
++.checkport.synology.com
++.ddns.synology.com
++.account.synology.com
