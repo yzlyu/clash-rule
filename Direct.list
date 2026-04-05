@@ -11,7 +11,6 @@
 +.577889.xyz
 +.hsbc.com.hk
 +.bochk.com
-# +.cloudflare.com
 # +.siroule.workers.dev
 +.oracle.com
 +.zajourney.com
@@ -47,6 +46,11 @@
 # 国内DNS
 +.dns.alidns.com
 +.doh.pub
+
+# cf
++.cloudflare.com
++.trycloudflare.com
++.argotunnel.com
 
 # 群晖
 +.checkip.synology.com
