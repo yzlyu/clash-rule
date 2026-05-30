@@ -58,3 +58,10 @@
 +.checkport.synology.com
 +.ddns.synology.com
 +.account.synology.com
+
+# R星
++.gamedownloads-rockstargames-com.akamaized.net
++.media-rockstargames-com.akamaized.net
++.rockstargames.com
++.,rsg.sc
+  - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
